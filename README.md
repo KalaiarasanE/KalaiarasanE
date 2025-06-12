@@ -50,8 +50,8 @@ Aspiring web developer with a strong foundation in HTML, CSS, and Bootstrap, com
 ---  
 ## 💼 Connect with Me  
 
-🌐 **GitHub:** [Praveenkumar Dhanasekar](https://github.com/Praveenku-mar)  
-🔗 **LinkedIn:** [Praveenkumar Dhanasekar](https://www.linkedin.com/in/praveen-kumar-8aaa1627b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🌐 **GitHub:** [KalaiarasanE](https://github.com/kalaiarasane)  
+🔗 **LinkedIn:** [KalaiarasanE](https://linkedin.com/Kalaiarasan E )  
 📩 **Email:** praveensekar223@gmail.com  
 
 Let's innovate and build something great! 🚀
