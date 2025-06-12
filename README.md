@@ -1,22 +1,26 @@
-# Hi there! 👋 I'm Kalaiarasan E 😎
+# 👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙺𝚊𝚕𝚊𝚒𝚊𝚛𝚊𝚜𝚊𝚗 𝙴 😎  
+## 🚀 𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚘𝚛 | 𝙰𝙸 𝙴𝚡𝚙𝚕𝚘𝚛𝚎𝚛 | 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚂𝚘𝚕𝚟𝚎𝚛  
 
-## 🚀 Innovator | AI  Explorer | Problem Solver
+🧠 𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗶𝘁𝗵 𝗮 𝘀𝗼𝗹𝗶𝗱 𝗴𝗿𝗮𝘀𝗽 𝗼𝗳 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗮𝗻𝗱 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗯𝗼𝗹𝘀𝘁𝗲𝗿𝗲𝗱 𝗯𝘆 𝗯𝗮𝘀𝗶𝗰 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆 𝗶𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 𝗮𝗻𝗱 𝗠𝗬𝗦𝗤𝗟.  
+🌐 I enjoy building beautiful, functional, and responsive websites. I'm passionate about crafting clean code and growing with every challenge I take on.  
 
-Aspiring web developer with a strong foundation in HTML, CSS, and Bootstrap, complemented by basic proficiency in Python and MySQL. As a fresher, I have demonstrated the ability to design and develop responsive websites and efficiently manage database systems. Eager to contribute to dynamic web development projects, I am committed to continuous learning and skill enhancement through hands-on experience in a collaborative and innovative environment.🌟💡
+---
 
----  
-## 🌟 About Me  
+## 🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮  
 
-- 🎓 **B.E Computer Science and Engineering** at **Dr. MCET, Pollachi**   
-- 💻 **Software Developer** skilled in *Java, Python, and C Programming*   
-- 🏆 **Problem Solver** with expertise in *Data Structures, Algorithms, and Competitive Coding*  
-- 📚 Always learning and evolving to stay ahead in the tech world.  
+- 🎓 **𝐁.𝐄 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠** at *Dr. MCET, Pollachi*  
+- 💻 **𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧** with skills in *Java, Python, C Programming*  
+- 🏆 𝙋𝙧𝙤𝙗𝙡𝙚𝙢 𝙎𝙤𝙡𝙫𝙚𝙧 | Competitive coding & mastering *DSA*  
+- 📚 𝘼𝙡𝙬𝙖𝙮𝙨 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙖𝙣𝙙 𝙜𝙧𝙤𝙬𝙞𝙣𝙜 𝙞𝙣 𝙩𝙝𝙚 𝙚𝙫𝙚𝙧-𝙘𝙝𝙖𝙣𝙜𝙞𝙣𝙜 𝙩𝙚𝙘𝙝 𝙬𝙤𝙧𝙡𝙙  
+
+---
 
 ---  
 ## 🔥 My Status  
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenku-mar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/kalaiarasane?theme=unicorn&font=Arial&animation=true)
+ 
 
 ### 💡 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kalaiarasane?theme=unicorn&font=Arial&animation=true)
