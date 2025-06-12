@@ -7,7 +7,7 @@ Aspiring web developer with a strong foundation in HTML, CSS, and Bootstrap, com
 ---  
 ## 🌟 About Me  
 
-- 🎓 **B.E Computer Science and Engineering** at **Dr. MCET, Pollachi** (*CGPA: 8.19*)  
+- 🎓 **B.E Computer Science and Engineering** at **Dr. MCET, Pollachi**   
 - 💻 **Software Developer** skilled in *Java, Python, and C Programming*   
 - 🏆 **Problem Solver** with expertise in *Data Structures, Algorithms, and Competitive Coding*  
 - 📚 Always learning and evolving to stay ahead in the tech world.  
@@ -28,14 +28,7 @@ Aspiring web developer with a strong foundation in HTML, CSS, and Bootstrap, com
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-
-### ⚙️ Backend Development  
-🔗 Database | ⚙️ Flask Python 
-
-### 🤖 Data Science & AI    
-- Natural Language Processing  
-- Data Visualization  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   
 
 ### 🔧 Tools & Technologies  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
@@ -51,7 +44,7 @@ Aspiring web developer with a strong foundation in HTML, CSS, and Bootstrap, com
 ## 💼 Connect with Me  
 
 🌐 **GitHub:** [KalaiarasanE](https://github.com/kalaiarasane)  
-🔗 **LinkedIn:** [KalaiarasanE](https://linkedin.com/Kalaiarasan E )  
-📩 **Email:** praveensekar223@gmail.com  
+🔗 **LinkedIn:** [KalaiarasanE]([https://linkedin.com/Kalaiarasan E](https://www.linkedin.com/in/kalaiarasan-e-7b7044258/) )  
+📩 **Email:** km45182334@gmail.com  
 
 Let's innovate and build something great! 🚀
