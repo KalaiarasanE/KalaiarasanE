@@ -19,8 +19,8 @@ Aspiring web developer with a strong foundation in HTML, CSS, and Bootstrap, com
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenku-mar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
 
 ### 💡 LeetCode Stats  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/Praveenkumar_Dhanasekar/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Praveenkumar_Dhanasekar?theme=dark&font=Roboto&solved=126)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/kalaiarasane?theme=unicorn&font=Arial&animation=true)
+ 
 
 ---  
 ## 🛠 Languages and Tools  
