@@ -36,8 +36,9 @@
 ---  
 ## 💼 Connect with Me  
 
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
- **GitHub:** [KalaiarasanE](https://github.com/kalaiarasane)  
+
+ <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" alt="GitHub" width="40"/>
+**GitHub:** [KalaiarasanE](https://github.com/kalaiarasane)  
 🔗 **LinkedIn:** [KalaiarasanE]([https://linkedin.com/Kalaiarasan E](https://www.linkedin.com/in/kalaiarasan-e-7b7044258/) )  
 📩 **Email:** km45182334@gmail.com  
 
