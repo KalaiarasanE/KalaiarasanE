@@ -1,7 +1,7 @@
 👋 **Hi there! I'm Kalaiarasan E** 😎
 ## 🚀 𝒲𝑒𝒷 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝐼 𝐸𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉 | 𝒞𝑜𝒹𝑒 𝐸𝓍𝓅𝓁𝑜𝓇𝑒
 
-<img src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="300" alt="Kawaii Coding">
+<img src="https://media.tenor.com/images/62dfc3c9ee3c1af7cd2aebf4cb2d1d26/tenor.gif" width="400" alt="Anime Coding Duo">
 
 
 🌐 I enjoy building beautiful, functional, and responsive websites. I'm passionate about crafting clean code and growing with every challenge I take on.  
