@@ -1,7 +1,7 @@
 👋 **Hi there! I'm Kalaiarasan E** 😎
 ## 🚀 𝒲𝑒𝒷 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝐼 𝐸𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉 | 𝒞𝑜𝒹𝑒 𝐸𝓍𝓅𝓁𝑜𝓇𝑒𝓇
 
-  https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coderman GIF">
 
 
 🌐 I enjoy building beautiful, functional, and responsive websites. I'm passionate about crafting clean code and growing with every challenge I take on.  
