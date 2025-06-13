@@ -1,7 +1,7 @@
 👋 **Hi there! I'm Kalaiarasan E** 😎
 ## 🚀 𝒲𝑒𝒷 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝐼 𝐸𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉 | 𝒞𝑜𝒹𝑒 𝐸𝓍𝓅𝓁𝑜𝓇𝑒
 
-<img src="https://tenor.com/view/anime-coding-dagashi-kashi-java-script-gif-12104185" width="400" alt="Anime Dagashi Kashi Coding">
+<img src="https://gifdb.com/gif/animated-system-coding-p7a08hqqh2i0potj.html" width="400" alt="Animated System Coding">
 
 
 🌐 I enjoy building beautiful, functional, and responsive websites. I'm passionate about crafting clean code and growing with every challenge I take on.  
