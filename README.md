@@ -1,4 +1,4 @@
-#👋 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮!   𝒦𝒶𝓁𝒶𝒾𝒶𝓇𝒶𝓈𝒶𝓃 𝐸 😎  
+#👋 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮! 𝓘'𝓶 𝒦𝒶𝓁𝒶𝒾𝒶𝓇𝒶𝓈𝒶𝓃 𝐸 😎  
 ## 🚀 𝒲𝑒𝒷 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝐼 𝐸𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉 | 𝒞𝑜𝒹𝑒 𝐸𝓍𝓅𝓁𝑜𝓇𝑒𝓇
 
 🧠 𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗶𝘁𝗵 𝗮 𝘀𝗼𝗹𝗶𝗱 𝗴𝗿𝗮𝘀𝗽 𝗼𝗳 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗮𝗻𝗱 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗯𝗼𝗹𝘀𝘁𝗲𝗿𝗲𝗱 𝗯𝘆 𝗯𝗮𝘀𝗶𝗰 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆 𝗶𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 𝗮𝗻𝗱 𝗠𝗬𝗦𝗤𝗟.  
@@ -31,10 +31,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   
 
 ### 🔧 Tools & Technologies  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+ 
 
 ### ☁️ Platforms  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
