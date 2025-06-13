@@ -33,15 +33,11 @@
 ### 🔧 Tools & Technologies  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
  
-
-### ☁️ Platforms  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
-
 ---  
 ## 💼 Connect with Me  
 
-🌐 **GitHub:** [KalaiarasanE](https://github.com/kalaiarasane)  
+[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
+ **GitHub:** [KalaiarasanE](https://github.com/kalaiarasane)  
 🔗 **LinkedIn:** [KalaiarasanE]([https://linkedin.com/Kalaiarasan E](https://www.linkedin.com/in/kalaiarasan-e-7b7044258/) )  
 📩 **Email:** km45182334@gmail.com  
 
