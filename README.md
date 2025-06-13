@@ -1,7 +1,7 @@
 👋 **Hi there! I'm Kalaiarasan E** 😎
 ## 🚀 𝒲𝑒𝒷 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝐼 𝐸𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉 | 𝒞𝑜𝒹𝑒 𝐸𝓍𝓅𝓁𝑜𝓇𝑒𝓇
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Rocket Dev">
+                                                                       <img src="https://tenor.com/view/anime-coding-dagashi-kashi-java-script-gif-12104185" width="400" alt="Dagashi Kashi Coding"> 🔗 A stylized duo coding scene with "Java" flair. :contentReference[oaicite:2]{index=2} ```markdown <img src="https://tenor.com/view/anime-coding-dagashi-kashi-java-script-gif-12104185" width="400" alt="Anime Dagashi Kashi Coding"> ```
 
 
 
