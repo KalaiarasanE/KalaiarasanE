@@ -1,4 +1,3 @@
-
 <img align="right" alt="rocket-dev" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <h1 align="center">Hi there 👋 I'm <strong>Kalaiarasan E</strong></h1>
