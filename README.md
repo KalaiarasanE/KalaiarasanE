@@ -1,14 +1,14 @@
-👋 **Hi there! I'm Kalaiarasan E** 😎
-## 🚀 𝒲𝑒𝒷 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝐼 𝐸𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉 | 𝒞𝑜𝒹𝑒 𝐸𝓍𝓅𝓁𝑜𝓇𝑒
 
-<img src="https://media.tenor.com/images/0ba26150af1b5d80505b56fbc94093ea/tenor.gif" width="400" alt="Code Takeoff">
+<img align="right" alt="rocket-dev" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
+<h1 align="center">Hi there 👋 I'm <strong>Kalaiarasan E</strong></h1>
+<p align="center"><i>Web Developer | AI Enthusiast | Tech Explorer</i></p>
 
 🌐 I enjoy building beautiful, functional, and responsive websites. I'm passionate about crafting clean code and growing with every challenge I take on.  
 
 ---
 
-## 🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮  
+## 🌟 ABOUT ME
 
 - 🎓 𝐁.𝐄 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 at *Dr. MCET, Pollachi*  
 - 💻 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 with skills in *Java, Python, C Programming*  
