@@ -1,7 +1,7 @@
 👋 **Hi there! I'm Kalaiarasan E** 😎
 ## 🚀 𝒲𝑒𝒷 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝐼 𝐸𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉 | 𝒞𝑜𝒹𝑒 𝐸𝓍𝓅𝓁𝑜𝓇𝑒
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Rocket Dev">
+<img src="https://media.tenor.com/images/0ba26150af1b5d80505b56fbc94093ea/tenor.gif" width="400" alt="Code Takeoff">
 
 
 🌐 I enjoy building beautiful, functional, and responsive websites. I'm passionate about crafting clean code and growing with every challenge I take on.  
